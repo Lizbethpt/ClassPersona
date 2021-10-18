@@ -1,0 +1,7 @@
+C:\Users\Hector Peña\source\repos\appClassPersona\appClassPersona\bin\Debug\appClassPersona.exe.config
+C:\Users\Hector Peña\source\repos\appClassPersona\appClassPersona\bin\Debug\appClassPersona.exe
+C:\Users\Hector Peña\source\repos\appClassPersona\appClassPersona\bin\Debug\appClassPersona.pdb
+C:\Users\Hector Peña\source\repos\appClassPersona\appClassPersona\obj\Debug\appClassPersona.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\appClassPersona\appClassPersona\obj\Debug\appClassPersona.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\appClassPersona\appClassPersona\obj\Debug\appClassPersona.exe
+C:\Users\Hector Peña\source\repos\appClassPersona\appClassPersona\obj\Debug\appClassPersona.pdb
